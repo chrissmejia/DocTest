@@ -1,0 +1,2 @@
+# DocTest
+Test for documentation
