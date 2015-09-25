@@ -3,8 +3,10 @@
 ==========
 
 .. raw:: html
-   <a href="#" class="button">Default Button</a>
 
+   <hr width=50 size=10>
+   <link rel="stylesheet" href="https://chrissmejia.com/static/templates/OpenSloth/css/app.css"/>
+   <a href="#" class="button">Default Button</a>
 
 
 ==========
