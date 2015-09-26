@@ -8,6 +8,10 @@
    <link rel="stylesheet" href="https://chrissmejia.com/static/templates/OpenSloth/css/app.css"/>
    <a href="#" class="button">Default Button</a>
 
+External file
+========
+.. raw:: html
+   :file: https://chrissmejia.com/about
 
 ==========
  Examples
