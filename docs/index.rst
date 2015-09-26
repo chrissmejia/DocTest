@@ -11,7 +11,7 @@
 External file
 ========
 .. raw:: html
-   :file: https://chrissmejia.com/about
+   :url: https://chrissmejia.com/about
 
 ==========
  Examples
